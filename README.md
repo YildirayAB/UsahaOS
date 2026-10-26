@@ -51,7 +51,7 @@ UsahaOS/
 
 ## Demo Aplikasi
 
-- **Live Demo:** https://usahaos-xi.vercel.app/
+- **Live Demo:** https://usaha-os.vercel.app
 - **Demo Account:** 
   <details>
   <summary>Username & Password</summary>
